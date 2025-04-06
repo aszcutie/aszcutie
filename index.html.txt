@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مدونة كاثي</title>
+  <style>
+    body {
+      background-color: #f8f8ff;
+      font-family: 'Cairo', sans-serif;
+      color: #222;
+      margin: 40px;
+      direction: rtl;
+    }
+    h1 {
+      color: #2b2b84;
+    }
+    .note {
+      background: #e6e6fa;
+      padding: 20px;
+      border-radius: 10px;
+      width: 90%;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>أهلًا بكِ في مدونة كاثي</h1>
+  <p>هذه الصفحة ستكون مكانكِ الخاص للتعبير، التدوين، والاحتفاظ بأجمل أفكارك.</p>
+
+  <div class="note">
+    <h3>أول تدوينة</h3>
+    <p>مرحبًا بالعالم! هذه أول تدوينة لي، وأنا متحمسة جدًا.</p>
+  </div>
+</body>
+</html>
